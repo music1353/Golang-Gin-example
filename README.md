@@ -22,9 +22,9 @@ my-gin
 │   └── person.go
 ├── router
 │   ├── router.go
-│		└── apis
-│   		└── v1
-│						└── person.go
+│   └── apis
+│       └── v1
+│           └── person.go
 ├── main.go
 ├── go.mod
 └── go.sum
